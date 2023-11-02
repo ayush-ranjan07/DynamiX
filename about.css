@@ -96,6 +96,7 @@
     border: 1px solid transparent;
     transition: var(--transition);
     position: relative;
+    overflow:hidden;
 }
 
 .team__member:hover{
@@ -122,10 +123,48 @@
 
 .team__member-socials{
     position: absolute;
-    top: 50%;
-    right: 0;
+    top: 25%;
+    right: -100%;
     display: flex;
     flex-direction: column;
     background: var(--color-primary);
     border-radius: 1rem 0 0 1rem;
+    box-shadow: -2rem 0 2rem rgba(0,0,0,0.3);
+    transition: var(--transition);
+}
+
+.team__member:hover .team__member-socials{
+    right: 0;
+}
+
+.team__member-socials a{
+    padding: 1rem;
+}
+
+
+
+/* ======================================================Media Queries Tablets===================================================*/
+@media screen and (max-width:1024px){
+    .about__achievements{
+        margin-top: 2rem;
+    }
+
+    .about__achievement-container{
+        grid-template-columns: 1fr;
+        gap: 4rem;
+    }
+
+    .about__achievements-left{
+        width: 80%;
+        margin: 0 auto;
+    }
+
+    .team__container{
+        grid-template-columns: repeat(3,1fr);
+        gap: 1.4rem;
+    }
+
+    .team_member{
+        padding: 1rem;
+    }
 }
