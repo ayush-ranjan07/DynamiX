@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2024-02-07T15:49:52.551Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/121.0.0.0 Safari/537.36 Edg/121.0.0.0" etag="_z1IvP8vInmV1I9ypJrO" version="23.1.1" type="device">
+<mxfile host="app.diagrams.net" modified="2024-02-08T16:05:40.333Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/121.0.0.0 Safari/537.36 Edg/121.0.0.0" etag="RZzACB1nozlxbAv4g5RO" version="23.1.1" type="device">
   <diagram name="Page-1" id="2c0d36ab-eaac-3732-788b-9136903baeff">
-    <mxGraphModel dx="2873.5" dy="452" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1.5" pageWidth="1169" pageHeight="827" background="none" math="0" shadow="0">
+    <mxGraphModel dx="2820.5" dy="430" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1.5" pageWidth="1169" pageHeight="827" background="none" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -216,18 +216,6 @@
         <mxCell id="OYL8JyaW53EyTGdHdamk-148" value="TIMELINE" style="rounded=1;fillColor=#23445D;gradientColor=none;strokeColor=none;fontColor=#FFFFFF;fontStyle=1;fontFamily=Tahoma;fontSize=14" parent="1" vertex="1">
           <mxGeometry x="-70" y="633.25" width="160" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="ZuH5fpt-UMEo5CAFBYcC-123" value="" style="fillColor=#F2931E;strokeColor=none;opacity=30;" parent="1" vertex="1">
-          <mxGeometry x="20" y="1241" width="180" height="264.5" as="geometry" />
-        </mxCell>
-        <mxCell id="ZuH5fpt-UMEo5CAFBYcC-124" value="COURSES" style="rounded=1;fillColor=#23445D;gradientColor=none;strokeColor=none;fontColor=#FFFFFF;fontStyle=1;fontFamily=Tahoma;fontSize=14" parent="1" vertex="1">
-          <mxGeometry x="30" y="1251" width="160" height="60" as="geometry" />
-        </mxCell>
-        <mxCell id="ZuH5fpt-UMEo5CAFBYcC-125" value="RECOMMENDATION" style="rounded=1;fillColor=#23445D;gradientColor=none;strokeColor=none;fontColor=#FFFFFF;fontStyle=1;fontFamily=Tahoma;fontSize=14" parent="1" vertex="1">
-          <mxGeometry x="30" y="1341" width="160" height="60" as="geometry" />
-        </mxCell>
-        <mxCell id="ZuH5fpt-UMEo5CAFBYcC-126" value="TIMELINE" style="rounded=1;fillColor=#23445D;gradientColor=none;strokeColor=none;fontColor=#FFFFFF;fontStyle=1;fontFamily=Tahoma;fontSize=14" parent="1" vertex="1">
-          <mxGeometry x="30" y="1431" width="160" height="60" as="geometry" />
-        </mxCell>
         <mxCell id="ZuH5fpt-UMEo5CAFBYcC-129" value="" style="fillColor=#10739E;strokeColor=none;opacity=30;" parent="1" vertex="1">
           <mxGeometry x="-140" y="760" width="580" height="90" as="geometry" />
         </mxCell>
@@ -241,7 +229,7 @@
           <mxGeometry x="-120" y="770" width="140" height="70" as="geometry" />
         </mxCell>
         <mxCell id="EgWpM7FZ9DTtyiWYHVQE-123" value="" style="fillColor=#F2931E;strokeColor=none;opacity=30;" parent="1" vertex="1">
-          <mxGeometry x="1390" y="444.5" width="150" height="354.5" as="geometry" />
+          <mxGeometry x="1390" y="444.5" width="150" height="175.5" as="geometry" />
         </mxCell>
         <mxCell id="EgWpM7FZ9DTtyiWYHVQE-124" value="WebRTC" style="rounded=1;fillColor=#23445D;gradientColor=none;strokeColor=none;fontColor=#FFFFFF;fontStyle=1;fontFamily=Tahoma;fontSize=14" parent="1" vertex="1">
           <mxGeometry x="1400" y="454.5" width="130" height="60" as="geometry" />
@@ -250,7 +238,7 @@
           <mxGeometry x="1400" y="544.5" width="130" height="60" as="geometry" />
         </mxCell>
         <mxCell id="Um83vmuw5BoVvy3527df-127" value="" style="fillColor=#F2931E;strokeColor=none;opacity=30;" parent="1" vertex="1">
-          <mxGeometry x="1760" y="442" width="150" height="354.5" as="geometry" />
+          <mxGeometry x="1760" y="442" width="150" height="178" as="geometry" />
         </mxCell>
         <mxCell id="Um83vmuw5BoVvy3527df-128" value="JAVASCRIPT" style="rounded=1;fillColor=#23445D;gradientColor=none;strokeColor=none;fontColor=#FFFFFF;fontStyle=1;fontFamily=Tahoma;fontSize=14" parent="1" vertex="1">
           <mxGeometry x="1770" y="452" width="130" height="60" as="geometry" />
