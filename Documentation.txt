@@ -1,6 +1,9 @@
 This is the documentation of the website.
+
 This documentation focuses on creating a ed-tech website.
+
 This website will have the following functionalities:
+
 1. Whiteboard
 2. Zoom meeting
 3. Course Recommendation
